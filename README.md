@@ -1,5 +1,0 @@
-[insurance_Y_train.csv](https://github.com/user-attachments/files/26943453/insurance_Y_train.csv)
-[insurance_Y_test.csv](https://github.com/user-attachments/files/26943444/insurance_Y_test.csv)
-[insurance_X_train_scaled (1).csv](https://github.com/user-attachments/files/26943430/insurance_X_train_scaled.1.csv)
-[insurance_X_test_scaled.csv](https://github.com/user-attachments/files/26943416/insurance_X_test_scaled.csv)
-[insurance_preprocessing.ipynb](https://github.com/user-attachments/files/26943406/insurance_preprocessing.ipynb)
